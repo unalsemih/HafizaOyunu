@@ -1,0 +1,10 @@
+c:\users\semih\source\repos\HafızaOyunu\HafızaOyunu\bin\Debug\HafızaOyunu.exe.config
+c:\users\semih\source\repos\HafızaOyunu\HafızaOyunu\bin\Debug\HafızaOyunu.exe
+c:\users\semih\source\repos\HafızaOyunu\HafızaOyunu\bin\Debug\HafızaOyunu.pdb
+c:\users\semih\source\repos\HafızaOyunu\HafızaOyunu\obj\Debug\HafızaOyunu.csprojResolveAssemblyReference.cache
+c:\users\semih\source\repos\HafızaOyunu\HafızaOyunu\obj\Debug\HafızaOyunu.Form1.resources
+c:\users\semih\source\repos\HafızaOyunu\HafızaOyunu\obj\Debug\HafızaOyunu.Properties.Resources.resources
+c:\users\semih\source\repos\HafızaOyunu\HafızaOyunu\obj\Debug\HafızaOyunu.csproj.GenerateResource.cache
+c:\users\semih\source\repos\HafızaOyunu\HafızaOyunu\obj\Debug\HafızaOyunu.csproj.CoreCompileInputs.cache
+c:\users\semih\source\repos\HafızaOyunu\HafızaOyunu\obj\Debug\HafızaOyunu.exe
+c:\users\semih\source\repos\HafızaOyunu\HafızaOyunu\obj\Debug\HafızaOyunu.pdb
